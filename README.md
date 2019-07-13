@@ -1,7 +1,7 @@
 
 Build deps: 
 
-npm install
+npm install  --no-optional
 
 Run dev server:
 
