@@ -1,0 +1,53 @@
+// Screen sizes
+
+$screen-xs-min: 425px;
+$screen-sm-min: 576px;
+$screen-md-min: 768px;
+$screen-lg-min: 992px;
+$screen-xl-min: 1200px;
+
+// Colors
+
+$primary-color: #86c232;
+$secondary-color: #61892f;
+$background-color: #222629;
+$foreground-color: #fff;
+$gray-dark-color: #474b4f;
+$gray-light-color: #6b6e70;
+$black-color: #2d2f31;
+
+// Media query mixins
+
+@mixin xs {
+  @media (min-width: #{$screen-xs-min}) {
+    @content;
+  }
+}
+
+@mixin sm {
+  @media (min-width: #{$screen-sm-min}) {
+    @content;
+  }
+}
+
+@mixin md {
+  @media (min-width: #{$screen-md-min}) {
+    @content;
+  }
+}
+
+@mixin lg {
+  @media (min-width: #{$screen-lg-min}) {
+    @content;
+  }
+}
+
+@mixin xl {
+  @media (min-width: #{$screen-xl-min}) {
+    @content;
+  }
+}
+
+// Sidebar
+
+$sidebar-width: 28rem;

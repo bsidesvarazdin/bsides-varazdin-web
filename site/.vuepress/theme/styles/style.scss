@@ -1,0 +1,71 @@
+// Imports
+
+// @import url("https://fonts.googleapis.com/css?family=Ubuntu:400,700&display=swap&subset=latin-ext");
+// @import url('https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap&subset=latin-ext');
+// @import url('https://fonts.googleapis.com/css?family=Lato:400,700&display=swap&subset=latin-ext');
+@import url("https://fonts.googleapis.com/css?family=Exo+2:400,700&display=swap&subset=latin-ext");
+// @import url('https://fonts.googleapis.com/css?family=Noto+Sans:400,700&display=swap&subset=latin-ext');
+
+// Box sizing
+
+*,
+:before,
+:after {
+  box-sizing: border-box;
+}
+
+// Scrollbars
+
+html {
+  overflow-y: scroll;
+}
+
+// Typography
+
+html {
+  font-size: 10px;
+  background: $gray-dark-color;
+}
+
+body {
+  // font-family: "Ubuntu", sans-serif;
+  // font-family: "Monserrat", sans-serif;
+  // font-family: "Lato", sans-serif;
+  font-family: "Exo 2", sans-serif;
+  // font-family: "Noto Sans", sans-serif;
+  text-rendering: optimizeLegibility;
+  font-variant-ligatures: none;
+  -webkit-font-variant-ligatures: none;
+  -moz-osx-font-smoothing: grayscale;
+  -moz-font-smoothing: antialiased;
+  -webkit-font-smoothing: antialiased;
+  text-shadow: rgba(0, 0, 0, 0.01) 0 0 1px;
+  font-size: 18px;
+  color: $foreground-color;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: $primary-color;
+}
+
+// Links
+
+a {
+  text-decoration: none;
+  color: $primary-color;
+  transition: color 0.35s ease;
+
+  &:visited,
+  &:active {
+    color: inherit;
+  }
+
+  &:hover {
+    color: $secondary-color;
+  }
+}
