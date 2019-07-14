@@ -35,7 +35,7 @@ Great! Our call for papers is currently open!
 
 [Submit your lecture via our submission platform.](https://docs.google.com/forms/d/e/1FAIpQLSdSK_jVwi3Fhoo2JQaf_FO4Z1s0PqzumV1PpiokTk2rf27_yg/viewform)
 
-### Topics of Interest
+## Topics of Interest
 
 We see BSidesVarazdin as neutral ground, a place to exchange ideas and knowledge. We will always strive to provide our attendees with high quality lectures without sales pitches.
 
@@ -55,31 +55,36 @@ We see BSidesVarazdin as neutral ground, a place to exchange ideas and knowledge
 - Other Interesting Technical Information Security Content
 
 
-# Is this the first BSides Varazdin?
+## Is this the first BSides Varazdin?
 
 Yes and no. BSides Varazdin is just a continuation of the old [FSec Symposium](https://fsec.foi.hr), focused as a more non-formal and community focused event. 
 
 
-# How much does it cost to attend?
+## How much does it cost to attend?
 
 0 EUR / HRK. This is a community focused event. We will have a registration form in a few weeks, which will enable you to attend, but there is no payment or tickets to be had. Keep in mind, you do need to register to enter the venue as we have a limited number of seats available.
 
 Registrations will be opened soon!
 
 
-# Can i get involved? Can i sponsor?
+## Can i get involved? Can i sponsor?
 
-Sure! We are firm believers that work should begin by saying "I will..." and not "You could..." ping kisasondi at gmail.com and parcijala at gmail.com and give your suggestion how you can contribute and what you can do to help. Consider helping by solving and completing one piece of the conference puzzle like badges, coffee break, lunch break or bbq, etc.
+Sure! We are firm believers that work should begin by saying "I will..." and not "You could..." tweet at [@bsidesvarazdin](https://twitter.com/bsidesvarazdin) and give your suggestion how you can contribute and what you can do to help. Consider helping by solving and completing one piece of the conference puzzle like badges, coffee break, lunch break or bbq, etc.
 
 
-# What is the recording policy and reporting policy for BSidesVarazdin?
+## What is the recording policy and reporting policy for BSidesVarazdin?
 
 Taking photos, videos or audio recordings is strictly forbidden unless you have explicit consent of the recorded / photoed party.
 
 The entire conference is run under [Chatham House Rule](https://en.wikipedia.org/wiki/Chatham_House_Rule) unless a different model is chosen by a speaker. 
 
 
-# Who is behind this?
+## Do you have a twitter account and what's the hashtag?
+
+Yes, it's [@bsidesvarazdin](https://twitter.com/bsidesvarazdin) and the hashtag is #bsidesvz
+
+
+## Who is behind this?
 
 [@kisasondi](https://twitter.com/kisasondi/) and [@6976](https://twitter.com/0x6976)
 
