@@ -15,3 +15,6 @@ Additional activities include: OWASP Croatia meeting.
 Our call for papers is currently open!
 
 [Submit your lecture via our submission platform.](https://docs.google.com/forms/d/e/1FAIpQLSdSK_jVwi3Fhoo2JQaf_FO4Z1s0PqzumV1PpiokTk2rf27_yg/viewform)
+
+
+As our confirmed lectures line up, we will update the list here:
