@@ -10,6 +10,11 @@ order: 4
 
 All attendees, speakers, sponsors and volunteers at BSidesVarazdin are required to agree with the following code of conduct. Organizers will enforce this code throughout the event. We are expecting cooperation from all participants to help ensure a safe and welcoming environment for everybody.
 
+
+## Chatham House Rule
+
+The entire conference is run under [Chatham House Rule](https://en.wikipedia.org/wiki/Chatham_House_Rule) unless a different model is chosen by a speaker. 
+
 ## TL;DR
 
 BSidesVarazdin is dedicated to providing a harassment-free conference experience for everyone, regardless of skill, age, gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of conference participants in any form.

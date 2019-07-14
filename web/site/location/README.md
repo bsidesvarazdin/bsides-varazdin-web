@@ -20,9 +20,16 @@ The City of Varaždin, capital of the Varaždin County, is situated on the south
 
 The New York Times listed town of Varaždin among 52 places in the world that you have to visit in 2014!
 
-For more information about Varaždin you can visit the Varaždin Tourist Board web pages.
-For more information about Croatia you can visit the Croatian National Tourist Board web pages.
+[For more information about Varaždin you can visit the Varaždin Tourist Board web pages.](http://www.tourism-varazdin.hr/en/)
+
+## ACCOMODATION
+
+Hotel Park is our venue, which [also is a 4 star hotel.](http://www.park-boutique-hotel.eu/en/)
+
+We can highly recommend the Student dorm (Which has really good rooms, with private bathrooms) and is quite inexpensive (around 25-30 EUR for a private room). [You can find more info here.](http://www.hostel.hr/) The dorm is within 10 minutes of walking distance from FOI. 
+
+Another 
 
 ## MONEY
 
-The official currency in Croatia is the Croatian Kuna (KN). 1 EUR ~ 7,6 KN. In most of the stores and restaurants you can pay with your debit and credit cards. ATMs work with the most common cards and this is the easiest way to get your Kunas while in Croatia.
+The official currency in Croatia is the Croatian Kuna (KN). 1 EUR ~ 7,3 to 7,5 KN. In most of the stores and restaurants you can pay with your debit and credit cards. ATMs work with the most common cards and this is the easiest way to get your Kunas while in Croatia.

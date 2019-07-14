@@ -1,0 +1,7 @@
+ubuntu-xenial-16.04-cloudimg-console.log
+web/node_modules/
+site/.vuepress/dist
+web/npm-debug.log
+.vscode/
+.history
+.vagrant/
