@@ -8,7 +8,7 @@ Run dev server:
 npm run dev
 ```
 
-Change content by modifiying the markdown files in the `site` directory.
+Change content by modifying the markdown files in the `site` directory.
 
 Build the web with:
 ```
