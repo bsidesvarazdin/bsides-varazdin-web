@@ -24,11 +24,11 @@ The New York Times listed town of Varaždin among 52 places in the world that yo
 
 ## ACCOMODATION
 
-Hotel Park is our venue, which [also is a 4 star hotel.](http://www.park-boutique-hotel.eu/en/)
+Hotel Park is our venue, which [also is a 4 star hotel.](http://www.park-boutique-hotel.eu/en/). 
 
-We can highly recommend the Student dorm (Which has really good rooms, with private bathrooms) and is quite inexpensive (around 25-30 EUR for a private room). [You can find more info here.](http://www.hostel.hr/) The dorm is within 10 minutes of walking distance from FOI. 
+Another option is the student dorm (Which has really good rooms, with private bathrooms) and is quite inexpensive (around 25-30 EUR for a night in a private room). [You can find more info here.](http://www.hostel.hr/) The dorm is within 10 minutes of walking distance from FOI. 
 
-Another 
+Other options include Hotel Turist, Hotel Istra etc...
 
 ## MONEY
 
