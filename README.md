@@ -17,4 +17,4 @@ npm run build
 Static content is stored in `site/.vuepress/dist/`.
 
 Author:
-Luka Matijevic (@lumatijev)
+Luka Matijević ([@lumatijev](https://github.com/lumatijev))
