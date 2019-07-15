@@ -17,17 +17,13 @@ At 18.9.2019 (Wednesday) - Park Boutique Hotel Varaždin
 
 Or more simply, it's the Wednesday after [Balccon.](https://2k19.balccon.org/index.php?title=Main_Page) 
 
-## I want to speak at BSidesVarazdin
-
-Great! Our call for papers is currently open!
-
-[Click here to submit your lecture via our submission platform](https://docs.google.com/forms/d/e/1FAIpQLSdSK_jVwi3Fhoo2JQaf_FO4Z1s0PqzumV1PpiokTk2rf27_yg/viewform)
 
 ## What are our values?
 
 We want intellectual sustenance, we do not want only form, fear mongering or sales pitches. We want high quality content, knowledge, experience and expertise to be shared with our attendees. We want to hear the latest thoughts and points of view from professionals, freelancers, consultants, governmental and law enforcement branches to hackers of all hat colors from a neutral, unbiased perspective.
 
 When we say vendor neutral, we don’t mean we dislike businesses or people that work professionally in the area of information security, we know no one wants sales talks when they want to educate themselves and network. We do want businesses to show off on what they are doing and their expertise.
+
 
 ## I want to speak at BSidesVarazdin
 
