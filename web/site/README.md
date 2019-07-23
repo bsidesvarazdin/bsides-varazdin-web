@@ -15,7 +15,7 @@ We strive to be a place where professionals and hackers regardless of gender, ra
 
 At 18.9.2019 (Wednesday) - Park Boutique Hotel Varaždin
 
-Or more simply, it's the Wednesday after [Balccon.](https://2k19.balccon.org/index.php?title=Main_Page) 
+Or more simply, it's the Wednesday after [Balccon.](https://2k19.balccon.org/index.php?title=Main_Page)
 
 
 ## What are our values?
@@ -53,7 +53,7 @@ We see BSidesVarazdin as neutral ground, a place to exchange ideas and knowledge
 
 ## Is this the first BSides Varazdin?
 
-Yes and no. BSides Varazdin is just a continuation of the old [FSec Symposium](https://fsec.foi.hr), focused as a more non-formal and community focused event. 
+Yes and no. BSides Varazdin is just a continuation of the old [FSec Symposium](https://fsec.foi.hr), focused as a more non-formal and community focused event.
 
 
 ## How much does it cost to attend?
@@ -72,7 +72,7 @@ Sure! We are firm believers that work should begin by saying "I will..." and not
 
 Taking photos, videos or audio recordings is strictly forbidden unless you have explicit consent of the recorded / photoed party.
 
-The entire conference is run under [Chatham House Rule](https://en.wikipedia.org/wiki/Chatham_House_Rule) unless a different model is chosen by a speaker. 
+The entire conference is run under [Chatham House Rule](https://en.wikipedia.org/wiki/Chatham_House_Rule) unless a different model is chosen by a speaker.
 
 
 ## Do you have a twitter account and what's the hashtag?
@@ -82,5 +82,5 @@ Yes, it's [@bsidesvarazdin](https://twitter.com/bsidesvarazdin) and the hashtag 
 
 ## Who is behind this?
 
-[@kisasondi](https://twitter.com/kisasondi/) and [@6976](https://twitter.com/0x6976)
+[@kisasondi](https://twitter.com/kisasondi/) and [@0x6976](https://twitter.com/0x6976)
 

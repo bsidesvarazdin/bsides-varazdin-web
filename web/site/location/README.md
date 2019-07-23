@@ -10,9 +10,9 @@ order: 3
 
 You can reach the city of Varaždin by several means of transportation: bus, train, car and airplane. From more distant parts of the Europe and the rest of the world, our guests usually fly in to Zagreb first. To get from the Zagreb airport (called Franjo Tuđman airport) to the town of Varaždin you have two options:
 
-Public transportation: There is a direct bus shuttle to the Zagreb Central bus station. From there you can take a bus to Varaždin. See the travel schedule here.
+Public transportation: There is a [direct bus shuttle to the Zagreb Central bus station](http://www.zagreb-airport.hr/en/passengers/to-from-the-airport/by-airport-shuttle/89). From there you can take a bus to Varaždin. See the travel schedule [here](http://www.akz.hr/default.aspx?id=260).
 
-Taxi or van: Renting a car or taking a taxi are fairly more expensive alternatives than a bus ride to Varaždin, but they're a good option if you will have fellow travelers. Inside the Franjo Tuđman Airport building you can find several rent-a-car service providers with all the necessary information. You can also book your trip sooner using online taxi booking. One of the possibilities is available here.
+Taxi or van: Renting a car or taking a taxi are fairly more expensive alternatives than a bus ride to Varaždin, but they're a good option if you will have fellow travelers. Inside the Franjo Tuđman Airport building you can find several rent-a-car service providers with all the necessary information. You can also book your trip sooner using online taxi booking. One of the possibilities is available [here](http://www.foxtransfer.eu/from-zagreb-airport-to-varazdin.en.html).
 
 ## ABOUT VARAŽDIN
 
@@ -24,11 +24,11 @@ The New York Times listed town of Varaždin among 52 places in the world that yo
 
 ## ACCOMODATION
 
-Hotel Park is our venue, which [also is a 4 star hotel.](http://www.park-boutique-hotel.eu/en/). 
+Hotel Park is our venue, which [also is a 4 star hotel.](http://www.park-boutique-hotel.eu/en/).
 
-Another option is the student dorm (Which has really good rooms, with private bathrooms) and is quite inexpensive (around 25-30 EUR for a night in a private room). [You can find more info here.](http://www.hostel.hr/) The dorm is within 10 minutes of walking distance from FOI. 
+Another option is the student dorm (Which has really good rooms, with private bathrooms) and is quite inexpensive (around 25-30 EUR for a night in a private room). [You can find more info here.](http://www.hostel.hr/) The dorm is within 10 minutes of walking distance from Hotel Park.
 
-Other options include Hotel Turist, Hotel Istra etc...
+Other options include [Hotel Turist](http://hotel-turist.hr/en/), [Hotel Istra](https://www.istra-hotel.hr/en) etc...
 
 ## MONEY
 
