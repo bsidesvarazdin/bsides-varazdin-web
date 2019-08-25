@@ -27,9 +27,7 @@ When we say vendor neutral, we don’t mean we dislike businesses or people that
 
 ## I want to speak at BSidesVarazdin
 
-Great! Our call for papers is currently open!
-
-[Submit your lecture via our submission platform.](https://docs.google.com/forms/d/e/1FAIpQLSdSK_jVwi3Fhoo2JQaf_FO4Z1s0PqzumV1PpiokTk2rf27_yg/viewform)
+Great! Make sure you don't miss the CfP announcement in 2020. The schedule for 2019 has been finalized and all speakers have been confirmed.
 
 ## Topics of Interest
 
