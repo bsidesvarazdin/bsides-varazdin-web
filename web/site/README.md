@@ -13,9 +13,9 @@ We strive to be a place where professionals and hackers regardless of gender, ra
 
 ## When and where?
 
-At 18.9.2019 (Wednesday) - Park Boutique Hotel Varaždin
+At 29.9.2020 (Tuesday) - Park Boutique Hotel Varaždin
 
-Or more simply, it's the Wednesday after [Balccon.](https://2k19.balccon.org/index.php?title=Main_Page)
+Or more simply, it's the Tuesday after [Balccon.](https://2k20.balccon.org/index.php?title=Main_Page), you have one day to travel and set yourself up in Varaždin, and to enjoy the next hacker con :) 
 
 
 ## What are our values?
@@ -27,7 +27,7 @@ When we say vendor neutral, we don’t mean we dislike businesses or people that
 
 ## I want to speak at BSidesVarazdin
 
-Great! Make sure you don't miss the CfP announcement in 2020. The schedule for 2019 has been finalized and all speakers have been confirmed.
+Great, we will publish the CFP shortly, and you can submit your talk. Watch out on our [official twitter page.](https://twitter.com/bsidesvarazdin)
 
 ## Topics of Interest
 
