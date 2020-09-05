@@ -13,9 +13,9 @@ We strive to be a place where professionals and hackers regardless of gender, ra
 
 ## When and where?
 
-At 29.9.2020 (Tuesday) - Park Boutique Hotel Varaždin
+BSidesVarazdin 2020 is unfortunatelly canceled because of COVID situation :( 
 
-Or more simply, it's the Tuesday after [Balccon.](https://2k20.balccon.org/index.php?title=Main_Page), you have one day to travel and set yourself up in Varaždin, and to enjoy the next hacker con :) 
+BSidesVarazdin 2021 will be organized as planned, either virtually or physically.
 
 
 ## What are our values?
