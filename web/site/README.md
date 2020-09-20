@@ -13,7 +13,7 @@ We strive to be a place where professionals and hackers regardless of gender, ra
 
 ## When and where?
 
-BSidesVarazdin 2020 is unfortunatelly canceled because of COVID situation :( 
+BSidesVarazdin 2020 is unfortunatelly canceled because of COVID situation :(
 
 BSidesVarazdin 2021 will be organized as planned, either virtually or physically.
 
