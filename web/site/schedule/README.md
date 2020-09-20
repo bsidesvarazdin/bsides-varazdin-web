@@ -17,14 +17,13 @@ Additional activities include: OWASP Croatia meeting.
 | 08:30 - 09:00 |                  | Registration                                                                                                            |
 | 09:00 - 09:05 |                  | Opening Ceremony                                                                                                        |
 | 09:05 - 09:45 | Ivan Fratric     | [Flash Click2play in Web Browsers and Other Horror Stories](#flash-click2play-in-web-browsers-and-other-horror-stories) |
-| 10:00 - 10:45 | Vanja Svajcer    | [Legitimate tools or weapons of mass compromise?](#legitimate-tools-or-weapons-of-mass-compromise)                      |
+| 10:00 - 10:45 | Antonio Zekic    | [iOS exploitation](#ios-exploitation)                                                                                   |
 | 11:00 - 11:45 | Bojan Zdrnja     | [Threats seen by SANS Internet Storm Center](#threats-seen-by-sans-internet-storm-center)                               |
 | 12:00 - 13:30 |                  | Lunch Break (no organized lunch, make your own arrangements)                                                            |
 | 13:30 - 13:50 | Dejan Strbad     | [(Ab)using eBPF as a security tool](#ab-using-ebpf-as-a-security-tool)                                                  |
 | 14:00 - 14:45 | Andrea Barisani  | [USB armory Mk II sneak peek](#usb-armory-mk-ii-sneak-peek)                                                             |
-| 15:00 - 15:45 | Utkonos          | [The Basics of x64dbg](#the-basics-of-x64dbg)                                                                           |
+| 15:00 - 15:45 | Vanja Svajcer    | [Legitimate tools or weapons of mass compromise?](#legitimate-tools-or-weapons-of-mass-compromise)                      |
 | 16:00 - 16:45 | penguin / Deso   | [That one time someone tried to blackmail KPN](#that-one-time-someone-tried-to-blackmail-kpn)                           |
-| 17:00 - 17:45 | Antonio Zekic    | [iOS exploitation](#ios-exploitation)                                                                                   |
 | 17:45 - 18:00 |                  | Closing Ceremony
 
 ## Flash Click2play in Web Browsers and Other Horror Stories
@@ -104,18 +103,6 @@ His experiences focus on large-scale infrastructure defense, penetration testing
 Being an active member of the international open source and security community he contributed to several projects, books and open standards. He is the founder of the oCERT effort, the Open Source Computer Security Incident Response Team.
 
 He is a well known international speaker, having presented at BlackHat, CanSecWest, Chaos Communication Congress, DEFCON, Hack In The Box, among many other conferences, speaking about innovative research on automotive hacking, side-channel attacks, payment systems, embedded system security and many other topics.
-
-## The Basics of x64dbg
-
-There are a number of debuggers out there such as WinDbg, OllyDbg, Immunity’s fork of Olly, and more. However, x64dbg is open source, and has matured to the point of being a very useful tool in the malware researcher’s toolkit. It’s constantly being updated with releases coming out monthly or even faster. It has a large, vibrant user base who are quite friendly with answering questions about how to use it best. This talk is a review of the basics of getting started using x64dbg.
-
-Using version 102 of Sodinokibi as a lab rat, we will walk through debugging this recent ransomware using x64dbg. We will look at unpacking a custom packer as well as reconstructing the payload’s import table using the built in version of Skylla. We will then lay out all the capabilities of the payload like an alien autopsy. This will include how to analyze both of the optional shellcodes as well as how to circumvent an anti-debugging technique based on thread timeout. We will dump the configuration file and examine the URL generation algorithm used to construct the C2 URLs Sodinokibi uses to call home. Finally, we will see how to use a new tool that I wrote for converting function labels from IDA Free and Ghidra into x64dbg database format called lst2x64dbg.
-
-#### About the speaker
-
-Robert Simmons is an independent malware researcher. With an expertise in building automated malware analysis systems based on open source tools, he has been tracking malware and phishing attacks and picking them apart for years. Robert has spoken on malware analysis at many of the top security conferences including DEFCON, HOPE, botconf, and DerbyCon among others. Robert also is a maintainer of plyara, a YARA rule parser written in pure python.
-
-Robert, also known as Utkonos, has a background in biology, linguistics, and Russian area studies. He has lived extensively in Russia and Ukraine and has been known to swear profusely and constantly in Russian.
 
 ## That one time someone tried to blackmail KPN
 
