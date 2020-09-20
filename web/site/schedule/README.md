@@ -24,7 +24,7 @@ Additional activities include: OWASP Croatia meeting.
 | 14:00 - 14:45 | Andrea Barisani  | [USB armory Mk II sneak peek](#usb-armory-mk-ii-sneak-peek)                                                             |
 | 15:00 - 15:45 | Vanja Svajcer    | [Legitimate tools or weapons of mass compromise?](#legitimate-tools-or-weapons-of-mass-compromise)                      |
 | 16:00 - 16:45 | penguin / Deso   | [That one time someone tried to blackmail KPN](#that-one-time-someone-tried-to-blackmail-kpn)                           |
-| 17:45 - 18:00 |                  | Closing Ceremony
+| 16:45 - 17:00 |                  | Closing Ceremony
 
 ## Flash Click2play in Web Browsers and Other Horror Stories
 
