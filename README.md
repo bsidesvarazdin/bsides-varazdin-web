@@ -1,4 +1,6 @@
 
+# This is an archive of the old BSidesVarazdin web. The main BSidesVarazdin web is now at: https://github.com/bsidesvarazdin/bsidesvarazdin.github.io
+
 Build deps:
 ```
 npm install  --no-optional
